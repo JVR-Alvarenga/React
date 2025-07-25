@@ -45,7 +45,7 @@ const Page = () => {
     }
 
     const removeItem = (id: number) => {
-      alert('Tem Certeza que quer apagar essa tarefa ?');
+      if (!window.confirm('Tem Certeza que quer apagar essa tarefa ?')) return false;
       dispatch({
         type: 'remove',
         payload: {
