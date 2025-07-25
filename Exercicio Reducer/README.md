@@ -2,7 +2,11 @@
 
 - **Funcionabilidades:** Uma página onde tem um input para adicionar uma tarefa á ser realizada, quando adicionada pode editar, excluir e marcar como feita.
 
-<img width="1871" height="938" alt="Screenshot 2025-07-24 220757" src="https://github.com/user-attachments/assets/a35e3dff-b927-4181-bfaf-52c8c7d2ba82" />
+<img width="1855" height="926" alt="image" src="https://github.com/user-attachments/assets/efb2fdfd-9479-4ac8-95ab-2e57a988f07b" />
 
-- **Ao clicar em 'Apagar'**
-<img width="1838" height="937" alt="Screenshot 2025-07-24 220911" src="https://github.com/user-attachments/assets/22c0cfde-5612-452e-9e18-015d3fbcd1af" />
+- **Ao clicar para 'Editar'**
+<img width="1828" height="914" alt="image" src="https://github.com/user-attachments/assets/f34eb8b2-2ed1-43fe-9d3a-bb3782d714f5" />
+
+- **Ao clicar para 'Apagar'**
+<img width="1869" height="929" alt="image" src="https://github.com/user-attachments/assets/93918570-1b2a-4896-97fa-63debe0cfe62" />
+
