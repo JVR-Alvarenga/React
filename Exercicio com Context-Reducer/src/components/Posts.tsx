@@ -1,10 +1,10 @@
 "use client";
 
-import { PostContext } from "@/contexts/PostContext";
-import { useContext, useState } from "react";
+import { usePosts } from "@/contexts/PostContext";
+import { useState } from "react";
 
 export const Posts = () => {
-    const postCtx = useContext(PostContext);
+    const postCtx = usePosts();
     const [inputTitle, setInputTitle] = useState<string>('');
     const [inputBody, setInputBody] = useState<string>('');
 
